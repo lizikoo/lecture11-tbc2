@@ -1,0 +1,80 @@
+
+@media(max-width:1465px){
+   .footerdiv{
+      width:1480px;
+   }
+}
+
+
+@media(max-width:1285px){
+   .first{
+    margin-right: 27px;
+   }
+}
+
+@media(max-width:1157px){
+   .img1{
+      margin-right: 20px;
+      width: 350px;
+   }
+
+}
+
+@media(max-width:1143px){
+   .wrap2{
+      display: flex;
+     justify-content: space-around;
+     margin-left: 250px;
+   }
+}
+
+
+@media(max-width:1094px){
+   .infoflex{
+      display: flex;
+     justify-content: space-between;
+     margin-left: 250px;
+   }
+}
+
+@media(max-width:910px){
+   #textarea1{
+      width: 760px;
+      height: 321px;
+   }
+   .s-2 input{
+      width: 390px;
+      height: 59px;
+   }
+   .s-2 input[type=submit]{
+      width  : 389px;
+      height: 59px;
+   }
+ }
+ 
+
+@media(max-width:904px){
+  .infoflex {
+      width: 900px;
+   }
+   .wrap1{
+      vertical-align: top;
+   }
+}
+
+
+@media(max-width:900px){
+   .second{
+      margin-right: 15px;
+   }
+}
+
+
+@media(max-width:516px){
+  .s-1 h1{
+   width: 371px;
+  }
+  .s-3 h1{
+   width: 548px;
+  }
+}
